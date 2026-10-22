@@ -50,3 +50,4 @@ All VM, cluster, and CVM shutdown steps are performed from **J61Tools01 inside S
 ## Usage
 
 See the Confluence runbook for the step-by-step shutdown procedure.
+https://mpmaterials.atlassian.net/wiki/x/AQBIBg
