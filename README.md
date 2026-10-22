@@ -1,6 +1,6 @@
 # J61 Nutanix Scripts
 
-PowerShell scripts for shutting down the J61 Mill Nutanix cluster (**MPMSNTXB**) at the DFW site.
+PowerShell scripts for shutting down the J61 Mill Nutanix cluster (**MPMSNTXB**) at the MPM Mine site.
 
 ## Repository layout
 

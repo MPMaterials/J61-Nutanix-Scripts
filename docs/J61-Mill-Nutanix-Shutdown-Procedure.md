@@ -1,7 +1,7 @@
 # J61 Mill Nutanix Cluster (MPMSNTXB) Shutdown Procedure
 
 **Owner:** Michael Becker (mbecker@mpmaterials.com)
-**Applies to:** J61 Mill Nutanix Cluster, MPMSNTXB, DFW site
+**Applies to:** J61 Mill Nutanix Cluster, MPMSNTXB, MPM Mine site
 **Scripts:** [J61-Nutanix-Scripts repo](https://github.com/Mainframe79) — `ShutdownMill/`
 
 ## Overview

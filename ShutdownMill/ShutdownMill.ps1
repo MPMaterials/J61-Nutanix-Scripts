@@ -6,7 +6,7 @@ Author: Michael Becker (mbecker@mpmaterials.com)
 https://github.com/Mainframe79
 
 .DESCRIPTION
-This script along with several subscripts comprise the shutdown process for the J61 Mill Nutanix Cluster (MPMSNTXB) at the DFW Site.
+This script along with several subscripts comprise the shutdown process for the J61 Mill Nutanix Cluster (MPMSNTXB) at the MPM Mine Site.
 Additionally when available we power down the physical domain controller.
 
 This must be run from PS 7 due to the Nutanix Cmdlets
