@@ -2,7 +2,7 @@
 
 **Owner:** Michael Becker (mbecker@mpmaterials.com)
 **Applies to:** J61 Mill Nutanix Cluster, MPMSNTXB, MPM Mine site
-**Scripts:** [J61-Nutanix-Scripts repo](https://github.com/Mainframe79) — `ShutdownMill/`
+**Scripts:** [J61-Nutanix-Scripts repo](https://github.com/MPMaterials/J61-Nutanix-Scripts) — `ShutdownMill/`
 
 ## Overview
 

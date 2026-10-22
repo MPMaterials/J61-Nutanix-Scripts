@@ -3,7 +3,7 @@
 This script along with several subscripts comprise the shutdown process for the J61 Mill Nutanix Cluster (MPMSNTXB).
 
 Author: Michael Becker (mbecker@mpmaterials.com)
-https://github.com/Mainframe79
+https://github.com/MPMaterials/J61-Nutanix-Scripts
 
 .DESCRIPTION
 This script along with several subscripts comprise the shutdown process for the J61 Mill Nutanix Cluster (MPMSNTXB) at the MPM Mine Site.
