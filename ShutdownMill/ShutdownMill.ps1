@@ -83,12 +83,5 @@ Start-Process "C:\Program Files\PowerShell\7\pwsh.exe" -WorkingDirectory $Workin
 Write-host "Connecting to J61NTXB02B" -ForegroundColor Green
 Start-Process "C:\Program Files\PowerShell\7\pwsh.exe" -WorkingDirectory $WorkingDir -ArgumentList "-File .\MPMSNTXB04-CVM.ps1" -Wait
 
-Pause
-
-##Stop Nutanix Nodes####
-
-
-
-
 Write-Host "Power down script complete." -ForegroundColor Green
 
